@@ -4,6 +4,10 @@
 순수 HTML / CSS / JavaScript로 만들어 GitHub Pages에서 서비스한다.
 설계 문서는 상위 폴더 `요구사항/`에 있다 (`01_HTML설계.md`, `02_표준스타일시트.md`).
 
+- 사이트: https://y2did2-source.github.io/naedon-neonchum/
+- 저장소: https://github.com/y2did2-source/naedon-neonchum (GitHub 계정 `y2did2-source` = y2did2@gmail.com)
+- 푸시 전 `gh auth status`에서 활성 계정이 `y2did2-source`인지 확인. 아니면 `gh auth switch -u y2did2-source`.
+
 ## 로컬에서 보기
 
 ```
