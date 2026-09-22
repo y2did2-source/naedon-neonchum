@@ -20,7 +20,7 @@ window.NDNC_CONFIG = {
 
   // Google Apps Script 웹앱 URL (…/exec). 비워 두면 설문 전송이 비활성된다.
   // 배포 절차: 요구사항/01_HTML설계.md §7.4
-  surveyEndpoint: "",
+  surveyEndpoint: "https://script.google.com/macros/s/AKfycbx_xkrINeJ9lfpQUnJ3jl0-m54EBdcH6ilM3k4X93Q4kqtoKGgKqh8pOx5h9M3yB6Bz/exec",
 
   // 참석 예정 인원 집계 표시 여부 (doGet 호출)
   showCount: true
