@@ -16,7 +16,7 @@ window.NDNC_CONFIG = {
   address: "제주시 광양6길 10",
 
   // 카카오 오픈톡 링크. 비워 두면 오픈톡 버튼이 숨겨진다.
-  openTalkUrl: "",
+  openTalkUrl: "https://open.kakao.com/o/g8LtL5rf",
 
   // Google Apps Script 웹앱 URL (…/exec). 비워 두면 설문 전송이 비활성된다.
   // 배포 절차: 요구사항/01_HTML설계.md §7.4
